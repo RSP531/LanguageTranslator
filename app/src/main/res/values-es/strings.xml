@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GFG | Change App Language</string>
+    <string name="selected_language">Spanish</string>
+    <string name="language">Si pero en Español</string>
+</resources>
